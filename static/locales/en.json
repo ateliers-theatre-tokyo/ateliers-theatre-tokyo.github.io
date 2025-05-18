@@ -6,23 +6,23 @@
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "projects": "Registration",
+    "career": "Theatre",
+    "blog": "News",
+    "link": "Contact"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "about_me": "Welcome!",
+    "des": "Founded in 2XXX, we organize various theatre and musical french classes/trainings in Tokyo."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "my_projects": "Registration 2025-2025",
+    // "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    // "cpython": "This project is other's project. I use another request to get repo's information.",
+    // "familycode": "This is another project."
   },
   "career":{
     "my_career": "My Career",
@@ -44,10 +44,10 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "News"
   },
   "link":{
-    "link": "Link",
+    "link": "Contact us",
     "view": "views"
   }
 
